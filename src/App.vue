@@ -4,8 +4,16 @@
       <h1>Users</h1>  
     </header>
     <ul>
-      <friend-contact></friend-contact>
-      <friend-contact></friend-contact>
+      <friend-contact
+        name='Nikodem Wicon'
+        phone-number='+48 696 787 013'
+        email-address='nikodem@nicode.pl'
+      ></friend-contact>
+      <friend-contact
+        name='Marta Rybicka'
+        phone-number='+48 668 246 135'
+        email-address='nikodem@nesperta.com'
+      ></friend-contact>
     </ul>
   </section>
 </template>
